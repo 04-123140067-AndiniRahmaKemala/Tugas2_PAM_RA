@@ -1,9 +1,15 @@
-Nama   : Miftahul Khoiriyah (123140064)
+# 📱 Tugas 2 - Pemrograman Aplikasi Mobile
+
+## 👤 Identitas Mahasiswa
+**Nama:** Andini Rahma Kemala  
+**NIM:** 123140067  
 
 
-Bukti Output : 
+# SCREENSHOT APLIKASI
 
-![Output Tugas 2](Output%20Tugas%202.png)
+## <img width="330" height="713" alt="Screenshot 2026-02-19 212140" src="https://github.com/user-attachments/assets/dd7ab0f8-97f2-4cf5-9da6-b0863083333e" />
+
+
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
 
